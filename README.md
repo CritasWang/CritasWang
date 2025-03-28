@@ -1,15 +1,16 @@
+# 你好，我是 CritasWang！ 👋
+
+[![Visits Badge](https://badges.pufler.dev/visits/CritasWang/CritasWang)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/CritasWang)](https://badges.pufler.dev)
+
+![CritasWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CritasWang&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CritasWang&layout=compact&theme=radical)
+
+## 🏆 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=CritasWang&theme=onedark)
-<!--
-**CritasWang/CritasWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ 来自 [CritasWang](https://github.com/CritasWang)
