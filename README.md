@@ -19,3 +19,5 @@
 ---
 
 ⭐️ 来自 [CritasWang](https://github.com/CritasWang)
+
+⭐️ [my bolg](https://critas.wang)
