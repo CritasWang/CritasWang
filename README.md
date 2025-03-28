@@ -1,17 +1,20 @@
-# 你好，我是 CritasWang！ 👋
+<h1 align="center">hi, there is CritasWang！ 👋</h1> 
 
-[![Visits Badge](https://badges.pufler.dev/visits/CritasWang/CritasWang)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/CritasWang)](https://badges.pufler.dev)
+<div align="center">
+  <img src="https://badges.pufler.dev/visits/CritasWang/CritasWang" />
+  <img src="https://badges.pufler.dev/years/CritasWang" />
+</div>
 
-
-## 🏆 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=CritasWang&theme=onedark)
-
-![CritasWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CritasWang&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CritasWang&layout=compact&theme=radical)
-
+<h2 align="center">🏆 </h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CritasWang&theme=radical&column=3&margin-w=15&margin-h=15" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CritasWang&theme=radical" alt="critaswang" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CritasWang&show_icons=true&theme=radical" alt="critaswang" />
+</div>
 
 ---
 
